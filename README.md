@@ -3,4 +3,4 @@ Curso de HTML5 e CSS3
 
 Estou aprendendo a criar sites e a gerenciar meus repositorios.
 
-<a href= 'https://paulokasilva.github.io/projeto-android/'>Executar meu primeiro mini projeto</a>
+<a href= 'https://paulokasilva.github.io/projeto-android/' target='_blank'>Executar meu primeiro mini projeto</a>
